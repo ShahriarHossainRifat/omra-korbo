@@ -11,6 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://shahriarhossainrifat.github.io/omra-korbo",
   "dependencies": {
     "@headlessui/react": "^2.2.0",
     "@tailwindcss/forms": "^0.5.10",

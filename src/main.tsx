@@ -10,7 +10,7 @@ import "./index.css";
 try {
   ReactDOM.createRoot(document.getElementById("root")!).render(
     <React.StrictMode>
-      <BrowserRouter>
+      <BrowserRouter basename="omra-korbo">
         <ThemeProvider>
           <AuthProvider>
             <CartProvider>
